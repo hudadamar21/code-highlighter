@@ -1,5 +1,8 @@
 # code-highlight
 
+## DEMO Aplikasi
+[https://hudadamar21.github.io/code-highlighter/](https://hudadamar21.github.io/code-highlighter/)
+
 ## Project setup
 ```
 yarn install
