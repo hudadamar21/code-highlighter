@@ -1,4 +1,4 @@
-# code-highlight
+# Code Highlighter
 
 ## DEMO Aplikasi
 [https://hudadamar21.github.io/code-highlighter/](https://hudadamar21.github.io/code-highlighter/)
